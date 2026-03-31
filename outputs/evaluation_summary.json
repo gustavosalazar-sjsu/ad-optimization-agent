@@ -1,0 +1,8 @@
+{
+  "days_evaluated": 18,
+  "total_agent_estimated_conversions": 2930.75,
+  "total_baseline_estimated_conversions": 2610.26,
+  "conversion_lift_pct": 12.28,
+  "avg_agent_estimated_cpa": 5.51,
+  "avg_baseline_estimated_cpa": 6.18
+}

@@ -1,0 +1,8 @@
+Successful run snapshot
+-----------------------
+Days evaluated: 18
+Total estimated conversions (agent): 2930.75
+Total estimated conversions (baseline): 2610.26
+Conversion lift vs baseline: 12.28%
+Avg estimated CPA (agent): $5.51
+Avg estimated CPA (baseline): $6.18
