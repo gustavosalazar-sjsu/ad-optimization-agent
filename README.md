@@ -44,5 +44,3 @@ Successful run on the included 21-day dataset:
 
 See `outputs/successful_run.txt`, `outputs/evaluation_summary.json`, and the generated charts for the full snapshot.
 
-## Submission note
-You can upload this folder to GitHub and replace the placeholder repo URL in your final submission form.
